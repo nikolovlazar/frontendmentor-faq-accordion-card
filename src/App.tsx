@@ -117,6 +117,7 @@ function App() {
         <a
           href="https://www.frontendmentor.io?ref=challenge"
           className="ml-1 text-soft-red"
+          rel="noreferrer"
           target="_blank"
         >
           {' '}
